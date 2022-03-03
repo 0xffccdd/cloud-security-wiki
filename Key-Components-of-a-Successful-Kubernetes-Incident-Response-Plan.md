@@ -4,6 +4,8 @@
 
 Are you a DevOps Engineer? Do you have to deal with Kubernetes incidents on a regular basis? In this blog post, we will explore the key components of a successful Kubernetes incident response plan.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 In order to create a solid plan, you need to understand what kind of threats exist for your particular environment. These threats can stem from either human error or malicious actors. The first step is to identify and list all potential threats for your environment. Once that is complete, it’s time to start planning out how your organization will respond to these threats. From there, you can go back and refine your list of threats as needed. As always, make sure to keep an open line of communication between teams, departments, and organizations so everyone knows who is responsible for what during an incident. When creating your response plan, consider the following:
 
 * Who is on call?

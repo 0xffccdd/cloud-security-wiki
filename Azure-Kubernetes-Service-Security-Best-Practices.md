@@ -1,5 +1,7 @@
 As more and more businesses move their applications to the cloud, the need for reliable cloud-based container orchestration grows. Azure Kubernetes Service (AKS) is a managed Kubernetes service that makes it easy to deploy and manage Kubernetes applications.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 AKS features include:
 - Automated upgrades and patching of Kubernetes
 - Easy deployment and scaling of Kubernetes clusters

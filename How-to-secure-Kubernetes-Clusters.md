@@ -1,6 +1,8 @@
 As Kubernetes adoption continues to grow, securing clusters is becoming increasingly important. Kubernetes provides several features to help secure your clusters, but there are also steps you can take to further secure them. In this blog, we will discuss how to secure Kubernetes clusters.
 First, let’s discuss the features Kubernetes provides to help secure clusters. Kubernetes has several features that help secure clusters, including role-based access control (RBAC), pod security policies, and network security.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 RBAC allows you to control who has access to what resources in your cluster. You can use RBAC to create roles and assign permissions to those roles. For example, you can create a role for administrators and assign permissions to delete pods and resources, create and delete services, and so on. You can then assign the administrator role to specific users or groups.
 
 Pod security policies allow you to restrict what actions pods can take and what resources they can access. For example, you can create a policy that prevents pods from accessing the network or deleting other pods.

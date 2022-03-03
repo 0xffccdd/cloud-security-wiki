@@ -1,6 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/99908467/154585731-0eb2a099-3054-4327-907a-2cbab16d92fe.png)
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
 
 One of the most important aspects of malware analysis is the ability to read and write yara rules. Yara rules are a way to describe malware using text strings. They can be used to identify malware samples, or to generate alerts when malware is encountered.
 

@@ -1,5 +1,7 @@
 Cloud Native Application Protection Platform is a term used to describe a platform that provides security and governance for cloud-native applications. Cloud-native applications are software applications that are designed to run on a cloud computing platform, such as Amazon Web Services (AWS) or Microsoft Azure.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 Cloud-native applications are different from traditional applications in a number of ways. For example, they are often composed of microservices, which are small, self-contained applications that can be deployed and managed independently. They are also often deployed using containers, which are lightweight virtual machines that can run on a variety of different operating systems.
 
 One of the challenges of managing cloud-native applications is ensuring that they are secure and compliant with corporate policies. Cloud-native Application Protection Platforms are designed to address this challenge by providing security and governance features specifically for cloud-native applications.

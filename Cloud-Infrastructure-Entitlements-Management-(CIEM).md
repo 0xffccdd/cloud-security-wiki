@@ -1,5 +1,7 @@
 Cloud Infrastructure Entitlements Management (CIEM) is a term used to describe the process of managing which users or groups are given access to which cloud resources. In other words, it is the process of governing who can do what in the cloud.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 CIEM is critical for any organization that wants to securely and efficiently use the cloud. Without proper management, users could easily access more resources than they need or worse, access resources they are not authorized to access. This could lead to security breaches, data loss, and other serious problems.
 
 CIEM is accomplished through the use of security policies and access controls. Security policies define who is authorized to access which resources and under what conditions. Access controls then enforce these policies by restricting access to authorized users and devices.

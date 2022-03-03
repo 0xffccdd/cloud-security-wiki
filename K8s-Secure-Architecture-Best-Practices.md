@@ -1,5 +1,7 @@
 While Kubernetes is secure by default, there are certain steps you can take to further lock down your Kubernetes architecture. In this blog post, we will discuss how to design the most secure Kubernetes architecture.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 1. Use Security Groups
 One of the most important steps you can take to secure your Kubernetes architecture is to use security groups. Security groups allow you to control access to your nodes and pods based on IP addresses. You can use security groups to allow only specific IP addresses to access your nodes and pods, and you can also use security groups to deny access to specific IP addresses.
 2. Use TLS

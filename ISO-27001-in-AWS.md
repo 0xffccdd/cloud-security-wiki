@@ -1,6 +1,8 @@
 ISO 27001, the international standard for information security, is a specification for an information security management system (ISMS). An ISMS is a framework of policies and procedures that organizations use to protect their information assets.
 ISO 27001 is a widely recognized and respected standard. Many organizations, including the U.S. government, require their contractors to be certified to ISO 27001.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 Organizations that want to certify to ISO 27001 must first implement an ISMS that meets the requirements of the standard. The ISMS must be implemented and operated in accordance with the requirements of the standard, and must be audited and certified by an accredited certification body.
 Organizations that are certified to ISO 27001 are allowed to use the ISO 27001 certification mark. The certification mark is a symbol of quality and assurance that the organization’s ISMS meets the requirements of the standard.
 

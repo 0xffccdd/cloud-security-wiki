@@ -2,6 +2,8 @@
 
 Google Kubernetes Engine (GKE) is a powerful platform for deploying and managing containerized applications. While GKE is a secure platform by default, there are a few steps you can take to further secure your GKE deployment.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 First, be sure to create a strong password for your GKE account. This password should be at least 8 characters long and include a mix of letters, numbers, and symbols.
 Next, be sure to enable 2-factor authentication (2FA) for your GKE account. This will help protect your account from unauthorized access.
 Finally, be sure to restrict access to your GKE deployment. You can do this by creating firewall rules that allow only specific IP addresses or ranges to access your deployment.

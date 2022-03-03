@@ -1,5 +1,7 @@
 Kubernetes has been widely adopted in the enterprise for its ability to manage and orchestrate containerized applications at scale. As a result, Kubernetes has become a prime target for malicious actors. In order to ensure the security of your Kubernetes environment, it is important to be aware of the various security risks and take the necessary precautions.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 The NSA has released a great guide on how to harden Kubernetes.
 
 The key recommendations from each section are:

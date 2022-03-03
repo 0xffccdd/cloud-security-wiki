@@ -1,5 +1,7 @@
 There are a lot of options for running containers in the cloud, but three of the most popular are AWS EKS, AWS ECS, and Fargate. In this post, we’ll compare and contrast these three services, all in AWS.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 ![image](https://user-images.githubusercontent.com/99908467/154587690-121b6327-c3a7-4dbc-874b-b4d49400d6c1.png)
 
 

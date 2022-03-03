@@ -1,5 +1,7 @@
 Kubernetes is a powerful platform that enables users to deploy and manage containers at scale. However, with great power comes great responsibility. As with any runtime environment, it is important to take steps to secure your Kubernetes installation.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 One important security consideration is which users are allowed to access Kubernetes. By default, only users with the Admin role are allowed to access the Kubernetes API. However, you may want to grant access to other users, such as developers or operators.
 You can use role-based access control (RBAC) to grant access to specific users or groups. RBAC allows you to specify which actions a user is allowed to perform, based on their role. For example, you can grant the Developer role the ability to create and delete containers, but not to edit or delete pods.
 

@@ -1,5 +1,7 @@
 Cloud security is one of the most important aspects of using cloud services. Azure is no different. Azure has a number of features and services that help you secure your data and applications.
 
+You can get a playbook on how to respond to security incidents in Cloud and Container environments [here](https://offers.cadosecurity.com/the-ultimate-guide-to-forensics-of-mining-malware-in-linux-container-and-cloud-environments).
+
 Azure Active Directory (Azure AD) is a cloud-based identity and access management service. Azure AD enables you to securely manage user identities and access permissions to your cloud-based applications and resources. Azure AD also provides Single Sign-On (SSO) to your cloud-based applications.
 Azure Key Vault helps you protect your application secrets by providing a secure place to store your keys and passwords. Azure Key Vault helps you meet regulatory compliance requirements by providing tamper-proof storage for your keys and passwords.
 Azure Security Center provides a centralized view of your Azure security environment. Azure Security Center helps you identify and mitigate security risks by providing security monitoring and threat intelligence.
